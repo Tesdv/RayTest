@@ -12,7 +12,3 @@
     font-size: 2.5rem;
     font-weight: bold;
 }
-
-.menu a:hover {
-    color: var(--col1a);
-}

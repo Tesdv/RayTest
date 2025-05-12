@@ -11,15 +11,11 @@
 
 .border {border: 3px solid var(--col1);}
 
-.middle {
-  height: calc(100vh - 160px);
-}
-.header {
-  height: 100px;
-}
-.footer {
-  height: 60px;
-}
+p {color: var(--col1);}
+
+.middle {height: calc(100vh - 160px);}
+.header {height: 100px;}
+.footer {height: 60px;}
 
 /* text */
 .helve {font-family: 'helvetica'; line-height: 1;}

@@ -1,7 +1,3 @@
-p {
-  color: #d6e4b3;
-}
-
 .dcards {
   height: 300px;
   width: 160px;
@@ -14,16 +10,6 @@ p {
 
 .fade {
   opacity: 0.5;
-}
-
-.middle {
-  height: calc(100vh - 160px);
-}
-.header {
-  height: 100px;
-}
-.footer {
-  height: 60px;
 }
 .devlog {
   height: calc(100vh - 300px - 160px);
