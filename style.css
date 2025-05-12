@@ -1,0 +1,23 @@
+.arrow {
+    font-size: 5rem;
+    rotate: 90deg;
+}
+
+.menu {
+    display: flex;
+    flex-direction: column;
+    gap: 90px;
+    min-height: 60vh;
+    font-family: 'DePixelKlein';
+    margin-top: 225px;
+}
+
+.menu a {
+    color: var(--col1);
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.menu a:hover {
+    color: var(--col1a);
+}
